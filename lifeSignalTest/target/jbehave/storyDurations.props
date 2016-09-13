@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Tue Sep 13 09:02:17 BRT 2016
+threads=1
+total=4000
+stories\\inciar.storyConverted=4000
+threadAverage=4000

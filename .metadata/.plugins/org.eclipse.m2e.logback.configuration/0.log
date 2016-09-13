@@ -1,0 +1,63 @@
+2016-09-13 08:54:41,518 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.gov.serpro.behave:lifeSignalTest:0.0.1-SNAPSHOT @ C:\LiveSignalJavaTest\lifeSignalTest\pom.xml.
+2016-09-13 08:54:41,523 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.gov.serpro.behave:lifeSignalTest:0.0.1-SNAPSHOT @ C:\LiveSignalJavaTest\lifeSignalTest\pom.xml.
+2016-09-13 08:54:56,102 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:54:56,103 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:54:56,103 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:54:56,107 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:54:56,115 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-13 08:54:59,693 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.gov.serpro.behave:lifeSignalTest:0.0.1-SNAPSHOT @ C:\LiveSignalJavaTest\lifeSignalTest\pom.xml.
+2016-09-13 08:55:00,998 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:55:00,999 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:55:00,999 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:55:01,002 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:55:01,008 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-13 08:55:04,167 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:55:04,168 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:55:04,169 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:55:04,171 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:55:04,171 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 08:56:45,771 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:56:45,771 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:56:45,772 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:56:45,773 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:56:45,774 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 08:58:07,150 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:07,150 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:07,151 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:07,153 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:07,154 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 08:58:08,234 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:08,234 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:08,234 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:08,235 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:08,236 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 08:58:41,532 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:41,532 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:41,532 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:41,534 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:41,537 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 08:58:50,530 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:50,531 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:50,531 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:58:50,533 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:58:50,534 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 08:59:24,070 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:59:24,071 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:59:24,071 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 08:59:24,074 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 08:59:24,074 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 09:00:42,448 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 09:00:42,448 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 09:00:42,449 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 09:00:42,450 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 09:00:42,450 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 09:01:07,203 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 09:01:07,203 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 09:01:07,203 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 09:01:07,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 09:01:07,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-13 09:01:34,546 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 09:01:34,546 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 09:01:34,546 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LiveSignalJavaTest\lifeSignalTest\src\main\resources
+2016-09-13 09:01:34,548 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-13 09:01:34,548 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
